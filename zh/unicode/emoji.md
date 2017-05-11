@@ -156,13 +156,13 @@ for (var i = 0; i < skip.length; ++i) {
 
 
 			var div = addCell40(tr);
-			div.style.background = 'url(/unicode/emoji/apple.jpg) '+x+' '+y;
+			div.style.background = 'url(/unicode/emoji/apple.png) '+x+' '+y;
 
 			var div = addCell40(tr);
-			div.style.background = 'url(/unicode/emoji/android.jpg) '+x+' '+y;
+			div.style.background = 'url(/unicode/emoji/android.png) '+x+' '+y;
 
 			var div = addCell40(tr);
-			div.style.background = 'url(/unicode/emoji/samsung.jpg) '+x+' '+y;
+			div.style.background = 'url(/unicode/emoji/samsung.png) '+x+' '+y;
 
 			var div = addCell(tr);
 			div.class = 'noclick';
