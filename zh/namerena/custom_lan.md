@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: namerena
 title:  "自定义语言"
 ---
 

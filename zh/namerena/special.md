@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: namerena
 title:  "特殊名字"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: namerena_simple
 ---
 
 ### 去社区交流游戏心得

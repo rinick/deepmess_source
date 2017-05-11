@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: namerena
 title:  "名字构成"
 ---
 

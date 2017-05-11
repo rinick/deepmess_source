@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: namerena_simple
 ---
 
 ### 切换语言包

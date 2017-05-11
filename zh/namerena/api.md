@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: namerena
 title:  "在网页里嵌入名字竞技场"
 ---
 
