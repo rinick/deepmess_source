@@ -3,7 +3,7 @@ layout: page
 title:  "Hashdown"
 ---
 
-**Hashdown**在线工具可以转换文本，使之更易于被分享
+**Hashdown**在线工具可以将文本编码成特殊的格式
 
 编码网址：
 [hashdown.github.io/edit.html](https://hashdown.github.io/edit.html)
@@ -16,7 +16,7 @@ title:  "Hashdown"
 | ------------- | ------------- | ------------- |
 | 链接 | 点开直接显示 | [https://hashdown.github.io/#oiJx7lXJzkhF0JS8A-OXpToFa8g](https://hashdown.github.io/#oiJx7lXJzkhF0JS8A-OXpToFa8g) |
 | Base2e15 | 输出字符最少 | 崪裓偒咥땍띊퀆㹄솝컇淊 |
-| 布莱天书 | 编码到二进制点阵 | ⡄⡥⡥⡰⡍⡥⡳⡳⠠⡢⡹⠠⡒⡩⡮⡩⡣⡫ |
+| 天书点阵 | 编码到二进制点阵 | ⡄⡥⡥⡰⡍⡥⡳⡳⠠⡢⡹⠠⡒⡩⡮⡩⡣⡫ |
 | 蝌蚪码 | 什么鬼？ | /ًًًٍٍٍٍَََُُُِِِِّّّّّّّّّْْْْٰ۠ٔٔۤٔﾞ |
 | 隐形码 | 完全隐藏内容 | 编码以后的字符‍‌​⁭‍⁬⁫⁬⁪⁫​⁫⁭⁬⁫⁬⁪⁫⁭⁮‌⁫⁫​⁪​⁫⁮⁫⁫⁫​‍⁫⁫⁭⁫⁬⁬⁭⁪‍‍⁭‌⁬⁬⁪不可见 |
 
@@ -35,7 +35,7 @@ Hashdown链接把文本以哈希的方式转换到Url中，以下特性使它有
 
 再加上Hashdown本身支持压缩，这能在有限的字符里存储更多的数据
 
-## 布莱天书
+## 天书点阵
 
 将字符转换成二进制并以布莱叶码的方式显示，图形中的每一个点对应数据中的每一比特
 
@@ -65,4 +65,4 @@ Hashdown链接把文本以哈希的方式转换到Url中，以下特性使它有
 
 
 ## 镜像网址
-* https://rinick.github.io/hashdown
+* [https://rinick.github.io/hashdown](https://rinick.github.io/hashdown)
