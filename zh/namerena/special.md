@@ -22,7 +22,7 @@ title:  "特殊名字"
 | [yuri@!](http://namerena.github.io/#b=yuri@!) | ![](images/yuri.gif) 尤里 | 红色警戒 |
 | [mosquito@!](http://namerena.github.io/#b=mosquito@!) | ![](images/mosquito.gif) 蚊 | 原创 |
 | [lazy@!](http://namerena.github.io/#b=lazy@!) | ![](images/lazy.gif) 懒癌 | 原创 |
-
+| [covid@!](http://namerena.github.io/#b=covid@!) | ![](images/covid.gif) 新冠病毒 |  |
 
 
 ### 其他Boss
@@ -34,7 +34,6 @@ title:  "特殊名字"
 * 田一人@!
 * 云剑*狄卡敢@!
 * 云剑穸跄祇@!
-
 
 
 ### 随机数种子
