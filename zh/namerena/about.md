@@ -3,13 +3,13 @@ layout: namerena
 title:  "关于"
 ---
 
-作者：Rinick [[微博](http://www.weibo.com/rinick)] [[Github](https://github.com/rinick)]
+作者：Rinick [[微博](https://www.weibo.com/rinick)] [[Github](https://github.com/rinick)]
 
 开发环境：<a href="https://www.dartlang.org" target="_blank">Google Dart</a>
 
 免费建站服务：<a href="https://pages.github.com" target="_blank">Github Pages</a>
 
-表情作者：可而 [<a href="http://www.weibo.com/u/1714554521" target="_blank">微博</a>]
+表情作者：可而 [<a href="https://www.weibo.com/u/1714554521" target="_blank">微博</a>]
 
 网站主题：<a href="https://github.com/jasonlong/architect-theme" target="_blank">Architect Theme</a>
 
