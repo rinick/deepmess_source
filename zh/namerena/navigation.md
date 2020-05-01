@@ -2,16 +2,17 @@
 layout: namerena_simple
 ---
 
+
+### 去社区交流游戏心得
+
+* <a href="http://deepmess.com/zh/namerena/ladder.html"  target="_blank">天梯排名</a>
+* <a href="http://tieba.baidu.com/%E5%90%8D%E5%AD%97%E7%AB%9E%E6%8A%80%E5%9C%BA" target="_blank">百度贴吧</a>
+* QQ群 ： 1079992837
+
 ### 切换语言包
 
 * <a href="http://namerena.github.io/" target="_top">简体</a> , <a href="http://namerena.github.io/?l=lang%2Fzh-TW.json" target="_top">繁體</a> , <a href="http://namerena.github.io/?l=lang%2Fen.json" target="_top">English</a>
 * <a href="http://namerena.github.io/?l=lang%2Fzh-money.json" target="_top">大富翁语言包</a>
-
-### 去社区交流游戏心得
-
-* <a href="http://tieba.baidu.com/%E5%90%8D%E5%AD%97%E7%AB%9E%E6%8A%80%E5%9C%BA" target="_blank">百度贴吧</a>
-* <a href="http://name.88448.com/" target="_blank">论坛</a>
-* <a href="https://github.com/namerena/help/wiki" target="_blank">维基</a>
 
 ### 导航
 
