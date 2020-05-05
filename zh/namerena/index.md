@@ -40,5 +40,4 @@ title:  "名字竞技场"
 ### 社区
 
 * [百度贴吧](http://tieba.baidu.com/%E5%90%8D%E5%AD%97%E7%AB%9E%E6%8A%80%E5%9C%BA)
-* [论坛](http://name.88448.com/)
-* [维基](https://github.com/namerena/help/wiki)
+* QQ群 ： 1079992837
