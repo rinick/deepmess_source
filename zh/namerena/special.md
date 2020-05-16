@@ -16,23 +16,14 @@ title:  "特殊名字"
 | [aokiji@!](http://namerena.github.io/#b=aokiji@!) | ![](images/aokiji.gif) 青雉 | 海贼王 | 无视物理攻击，强力冰冻技能 |
 | [conan@!](http://namerena.github.io/#b=conan@!) | ![](images/conan.gif) 柯南 | 名侦探柯南 | 不小心遇到他就会有生命危险。。。 |
 | [ikaruga@!](http://namerena.github.io/#b=ikaruga@!) | ![](images/ikaruga.gif) 斑鸠 | [斑鸠](https://zh.wikipedia.org/wiki/%E6%96%91%E9%B3%A9_%28%E9%81%8A%E6%88%B2%29) | 吸收所有奇数伤害，只有偶数攻击有效 |
-| [mario@!](http://namerena.github.io/#b=mario@!) | ![](images/mario.gif) 马里奥 | 马里奥 | 吃了蘑菇会变厉害 |
+| [mario@!](http://namerena.github.io/#b=mario@!) | ![](images/mario.gif) 马里奥 | 超级马里奥 | 吃了蘑菇会变厉害 |
 | [slime@!](http://namerena.github.io/#b=slime@!) | ![](images/slime.gif) 史莱姆 |  | 死后会分身成小史莱姆 |
 | [sonic@!](http://namerena.github.io/#b=sonic@!) | ![](images/sonic.gif) 索尼克 | 索尼克 | 超高速度 |
 | [yuri@!](http://namerena.github.io/#b=yuri@!) | ![](images/yuri.gif) 尤里 | 红色警戒 | 心灵控制 |
 | [mosquito@!](http://namerena.github.io/#b=mosquito@!) | ![](images/mosquito.gif) 蚊 | 原创 | 打不到它。。。 |
 | [lazy@!](http://namerena.github.io/#b=lazy@!) | ![](images/lazy.gif) 懒癌 | | 犯了懒癌就什么都不想做。。 |
+| [saitama@!](http://namerena.github.io/#b=saitama@!) | ![](images/saitama.gif) 一拳超人 | 一拳超人 | 强到几乎无敌，但总要到最后才出手 |
 | [covid@!](http://namerena.github.io/#b=covid@!) | ![](images/covid.gif) 新冠病毒 |  | 人多就会交差传染，最好装备上口罩 |
-
-### 其他Boss
-
-作者会在百度贴吧和微博等社区定期举办活动，获胜者可以得到一个自己的Boss名
-
-现有的奖励Boss列表:
-
-* 田一人@!
-* 云剑*狄卡敢@!
-* 云剑穸跄祇@!
 
 
 ### 随机数种子
