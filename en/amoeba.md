@@ -5,9 +5,13 @@ title:  "Rick's Game of Amoeba"
 
 **Rick\'s Game of Amoeba** is a <a href="https://en.wikipedia.org/wiki/Cellular_automaton" target="_blank">Cellular Automaton</a> based on <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">Game of Life</a>. It emulates Amoebas growing and devouring each other.
 
-Web app url: [deepmess.com/amoeba/](/amoeba/#en)
-
 Source code: [github.com/rinick/game-of-amoeba](https://github.com/rinick/game-of-amoeba)
+
+------
+Open the full web app to access more features（ Save / Load / Edit ）: 
+
+[deepmess.com/amoeba/](/amoeba/#en)
+
 
 <style type="text/css">
   span.cell{
@@ -47,7 +51,18 @@ Source code: [github.com/rinick/game-of-amoeba](https://github.com/rinick/game-o
     background: #ffffff;
   }
 
+  iframe {
+    height:752px;
+  }
+@media (max-width: 500px) {
+  iframe {
+    height: 540px
+  }
+}
 </style>
+
+<iframe src="/amoeba/#en"  frameBorder="0" style="width:100%">
+</iframe>
 
 ## Cell Types
 
@@ -102,11 +117,11 @@ Source code: [github.com/rinick/game-of-amoeba](https://github.com/rinick/game-o
 </td></tr>
 </table>
 
+## Idea and new samples
 
-------
-Open the full web app to access more features（ Save / Load / Modify ）: 
+Please submit your idea or sample stage (as webp file) at [github.com/rinick/game-of-amoeba/issues](https://github.com/rinick/game-of-amoeba/issues)
 
-[deepmess.com/amoeba/](/amoeba/#en)
+Also these rules are not finalized yet, samples that relies on these cases might be broken in the future:
 
-<iframe src="/amoeba/#en"  frameBorder="0" style="width:100%;height:752px">
-<iframe>
+- rules that involve both walls and membrane cells
+- rules that involve walls and both color of amoeba cells 
