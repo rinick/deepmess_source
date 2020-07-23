@@ -1,6 +1,6 @@
 ---
 layout: page_en
-title:  "Rick's Lego Chess Piece Design"
+title:  "Rick's Lego Chess Pieces Design"
 ---
 
 <style type="text/css">
@@ -117,16 +117,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/base0.png, /chess/base0_2x.png 1.5x"/>
+    <img srcset="/chess/base0.png, /chess/base0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/pawn1.png, /chess/pawn1_2x.png 1.5x"/>
+    <img srcset="/chess/pawn1.png, /chess/pawn1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/pawn2.png, /chess/pawn2_2x.png 1.5x"/>
+    <img srcset="/chess/pawn2.png, /chess/pawn2_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/pawn_black.png, /chess/pawn_black_2x.png 1.5x"/>
+    <img srcset="/chess/pawn_black.png, /chess/pawn_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -196,16 +196,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/rook0.png, /chess/rook0_2x.png 1.5x"/>
+    <img srcset="/chess/rook0.png, /chess/rook0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/rook1.png, /chess/rook1_2x.png 1.5x"/>
+    <img srcset="/chess/rook1.png, /chess/rook1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/rook2.png, /chess/rook2_2x.png 1.5x"/>
+    <img srcset="/chess/rook2.png, /chess/rook2_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/rook_black.png, /chess/rook_black_2x.png 1.5x"/>
+    <img srcset="/chess/rook_black.png, /chess/rook_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -271,19 +271,19 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/knight0.png, /chess/knight0_2x.png 1.5x"/>
+    <img srcset="/chess/knight0.png, /chess/knight0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/knight1.png, /chess/knight1_2x.png 1.5x"/>
+    <img srcset="/chess/knight1.png, /chess/knight1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/knight2.png, /chess/knight2_2x.png 1.5x"/>
+    <img srcset="/chess/knight2.png, /chess/knight2_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/knight3.png, /chess/knight3_2x.png 1.5x"/>
+    <img srcset="/chess/knight3.png, /chess/knight3_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/knight_black.png, /chess/knight_black_2x.png 1.5x"/>
+    <img srcset="/chess/knight_black.png, /chess/knight_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -396,16 +396,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/base0.png, /chess/base0_2x.png 1.5x"/>
+    <img srcset="/chess/base0.png, /chess/base0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/bishop1.png, /chess/bishop1_2x.png 1.5x"/>
+    <img srcset="/chess/bishop1.png, /chess/bishop1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/bishop2.png, /chess/bishop2_2x.png 1.5x"/>
+    <img srcset="/chess/bishop2.png, /chess/bishop2_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/bishop_black.png, /chess/bishop_black_2x.png 1.5x"/>
+    <img srcset="/chess/bishop_black.png, /chess/bishop_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -486,16 +486,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/queen0.png, /chess/queen0_2x.png 1.5x"/>
+    <img srcset="/chess/queen0.png, /chess/queen0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/queen1.png, /chess/queen1_2x.png 1.5x"/>
+    <img srcset="/chess/queen1.png, /chess/queen1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/queen2.png, /chess/queen2_2x.png 1.5x"/>
+    <img srcset="/chess/queen2.png, /chess/queen2_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/queen_black.png, /chess/queen_black_2x.png 1.5x"/>
+    <img srcset="/chess/queen_black.png, /chess/queen_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -590,16 +590,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/king0.png, /chess/king0_2x.png 1.5x"/>
+    <img srcset="/chess/king0.png, /chess/king0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/king1.png, /chess/king1_2x.png 1.5x"/>
+    <img srcset="/chess/king1.png, /chess/king1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/king2.png, /chess/king2_2x.png 1.5x"/>
+    <img srcset="/chess/king2.png, /chess/king2_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/king_black.png, /chess/king_black_2x.png 1.5x"/>
+    <img srcset="/chess/king_black.png, /chess/king_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -690,16 +690,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 </tr>
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/base0.png, /chess/base0_2x.png 1.5x"/>
+    <img srcset="/chess/base0.png, /chess/base0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/cannon1.png, /chess/cannon1_2x.png 1.5x"/>
+    <img srcset="/chess/cannon1.png, /chess/cannon1_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/cannon2.png, /chess/cannon2_2x.png 1.5x"/>
+    <img srcset="/chess/cannon2.png, /chess/cannon2_2x.png 2x"/>
   </td>
    <td align="center">
-    <img srcset="/chess/cannon_black.png, /chess/cannon_black_2x.png 1.5x"/>
+    <img srcset="/chess/cannon_black.png, /chess/cannon_black_2x.png 2x"/>
   </td>
 </tr>
 </table>
@@ -779,15 +779,15 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
 
 ## Reinforce
 
-You might need some additional reinforce pieces if you want to play this with a child.
+You might need some additional reinforce pieces if you want to play with this frequently.
 
 <table class="panel">
 <tr class="steps">
   <td align="center"> 
-    <img srcset="/chess/reinforce0.png, /chess/reinforce0_2x.png 1.5x"/>
+    <img srcset="/chess/reinforce0.png, /chess/reinforce0_2x.png 2x"/>
   </td>
   <td align="center">
-    <img srcset="/chess/reinforce1.png, /chess/reinforce1_2x.png 1.5x"/>
+    <img srcset="/chess/reinforce1.png, /chess/reinforce1_2x.png 2x"/>
   </td>
 </tr>
 </table>
