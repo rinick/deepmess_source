@@ -101,6 +101,9 @@ td.blue::after {
 
 所有部件都可以在[BrickLink](https://www.bricklink.com/catalogTree.asp?itemType=P)找到。
 
+
+3D渲染图: [deviantart](https://www.deviantart.com/rickzhou/art/Lego-Chess-Set-849817947)
+
 ## 兵 / 卒
 
 <table class="panel">

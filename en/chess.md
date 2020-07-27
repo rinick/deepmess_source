@@ -101,6 +101,8 @@ My original design of Lego Chess Pieces, designed with [Stud.io](https://www.bri
 
 All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?itemType=P)
 
+3D rendering: [deviantart](https://www.deviantart.com/rickzhou/art/Lego-Chess-Set-849817947)
+
 ## Pawn
 
 <table class="panel">
@@ -795,5 +797,5 @@ You might need some additional reinforce pieces if you want to play with this fr
 
 | No. | Part Name | Can be Used on Pieces |
 | :---: | :---: | :---: |
-| 3957b (preferred) | Antenna 1x4 - Flat Top | Pawn, Rook, Bishop, Queen, King |
+| 3957b (recommended) | Antenna 1x4 - Flat Top | Pawn, Rook, Bishop, Queen, King |
 | 30374 | Bar 4L (Lightsaber Blade / Wand) | Pawn, Rook, Bishop, Queen, King, Cannon |
