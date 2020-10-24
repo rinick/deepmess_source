@@ -343,16 +343,16 @@ All parts can be found at [BrickLink](https://www.bricklink.com/catalogTree.asp?
   <td align="center"> 1 </td>
 </tr>
 <tr>
-  <td align="center" rowspan="2">  4864a</td>
+  <td align="center" rowspan="2">  4864b</td>
   <td>
-    Panel 1x2x2 - Solid Studs
+    Panel 1x2x2 - Hollow Studs
   </td>
   <td class="white"> / </td>
   <td align="center"> 1 </td>
 </tr>
 <tr>
   <td>
-    Alternate : 4864b, Panel 1x2x2 - Hollow Studs
+    Alternate : 87552, Panel 1x2x2 with Side Supports - Hollow Studs
   </td>
   <td class="white"> / </td>
   <td align="center"> ( 1 ) </td>
