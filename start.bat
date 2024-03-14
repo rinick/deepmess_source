@@ -1,1 +1,1 @@
-jekyll serve
+C:\Ruby32-x64\bin\jekyll serve
