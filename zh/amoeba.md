@@ -65,7 +65,7 @@ title:  "变形虫自动机"
 
 ------
 访问完整网址以使用更多功能（读写存档，编辑像素）: 
-<a href="/amoeba/#zh" target="_blank">deepmess.com/amoeba/</a>
+<a href="/amoeba/#zh" target="_blank">ulugo.com/amoeba/</a>
 
 <iframe src="/amoeba/#zh"  frameBorder="0" style="width:100%;height:752px">
 <iframe>

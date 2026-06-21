@@ -1,6 +1,6 @@
 ---
 layout: page_en
-title:  "Rick's Deep Mess"
+title:  "Rick's Ulugo"
 ---
 
 ---
@@ -10,3 +10,4 @@ title:  "Rick's Deep Mess"
 | [![](/images/icon/amoeba.png)](/en/amoeba.html) | [Rick\'s Game of Amoeba](/en/amoeba.html) <br /> A Cellular automaton web app base on Game of Life. |
 | [<img src="/images/icon/hashdown.png"/>](/en/hashdown/) | [Hashdown](/en/hashdown/) <br /> Text encoding and compression tool. |
 | [![](/images/icon/namerena.png)](https://namerena.github.io/en.html) | [Namerena](https://namerena.github.io/en.html) <br /> A Text based fighting game, game result is determined by input names. |
+| [<img src="/images/icon/notes.png" style="min-width:160px;width:160px" />](/en/notes/) | [Experiments and Design Notes](/en/notes/) <br /> Games, automata, mathematics, graphics, and browser development. |

@@ -6,7 +6,7 @@ title:  "Virus细胞自动机"
 **Virus**是一个4状态的<a href="http://zh.wikipedia.org/wiki/%E7%B4%B0%E8%83%9E%E8%87%AA%E5%8B%95%E6%A9%9F" target="_blank">细胞自动机</a>，四种状态模拟了植物细胞内病毒的生长。（程序通过WebGL和GLSL实现，和计算机病毒没有任何关系）
 
 网址: 
-<a href="/ca/virus.html" target="_blank">deepmess.com/ca/virus.html</a>
+<a href="/ca/virus.html" target="_blank">ulugo.com/ca/virus.html</a>
 
 
 ## 规则

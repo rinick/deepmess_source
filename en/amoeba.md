@@ -10,7 +10,7 @@ Source code: [github.com/rinick/game-of-amoeba](https://github.com/rinick/game-o
 ------
 Open the full web app to access more features（ Save / Load / Edit ）: 
 
-[deepmess.com/amoeba/](/amoeba/#en)
+[ulugo.com/amoeba/](/amoeba/#en)
 
 
 <style type="text/css">

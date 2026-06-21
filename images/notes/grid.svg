@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
+  <rect width="800" height="360" rx="24" fill="#f4f7f8"/>
+  <g transform="translate(82 42)" stroke="#d4e1e7" stroke-width="2">
+    <path d="M0 0v276M46 0v276M92 0v276M138 0v276M184 0v276M230 0v276M276 0v276"/>
+    <path d="M0 0h276M0 46h276M0 92h276M0 138h276M0 184h276M0 230h276M0 276h276"/>
+  </g>
+  <g fill="#168fd0" transform="translate(82 42)">
+    <rect x="94" y="48" width="42" height="42"/><rect x="140" y="94" width="42" height="42"/>
+    <rect x="94" y="140" width="42" height="42"/><rect x="48" y="94" width="42" height="42"/>
+    <rect x="186" y="140" width="42" height="42"/><rect x="186" y="186" width="42" height="42"/>
+  </g>
+  <path d="M390 180h100" stroke="#26343d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M475 160l22 20-22 20" fill="none" stroke="#26343d" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(535 74)">
+    <circle cx="95" cy="106" r="91" fill="#ffffff" stroke="#26343d" stroke-width="6"/>
+    <path d="M43 127c22-57 77-77 119-37-11 62-47 94-105 91-16-13-22-31-14-54z" fill="#35aee2"/>
+    <circle cx="115" cy="82" r="22" fill="#ff6975"/>
+  </g>
+</svg>

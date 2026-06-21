@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
+  <rect width="800" height="360" rx="24" fill="#f2f8fb"/>
+  <g transform="translate(70 70)">
+    <rect width="210" height="220" rx="18" fill="#26343d"/>
+    <g fill="#ffffff" font-family="monospace" font-size="25">
+      <text x="28" y="55">name</text><text x="28" y="98">π 3.14</text>
+      <text x="28" y="141">A7 F2</text><text x="28" y="184">{ data }</text>
+    </g>
+  </g>
+  <path d="M310 180h120" stroke="#168fd0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M410 157l26 23-26 23" fill="none" stroke="#168fd0" stroke-width="8"/>
+  <g transform="translate(475 65)">
+    <rect width="255" height="230" rx="20" fill="#ffffff" stroke="#26343d" stroke-width="6"/>
+    <rect x="30" y="34" width="42" height="70" rx="6" fill="#35aee2"/>
+    <rect x="87" y="58" width="42" height="46" rx="6" fill="#ff6975"/>
+    <rect x="144" y="20" width="42" height="84" rx="6" fill="#168fd0"/>
+    <rect x="201" y="72" width="24" height="32" rx="5" fill="#91a3ad"/>
+    <path d="M30 181l48-35 47 18 45-48 55 31" fill="none" stroke="#26343d" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

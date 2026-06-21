@@ -1,4 +1,4 @@
-# Deep Mess site
+# Ulugo site
 
 This is a small TypeScript static-site build.
 

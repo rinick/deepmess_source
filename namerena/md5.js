@@ -1676,7 +1676,7 @@ b9:function b9(){this.b=this.a=0
 this.c=null},
 k_:function k_(a,b){this.a=a
 this.b=b},
-oC(a){var s,r,q="deepmess.com"
+oC(a){var s,r,q="ulugo.com"
 if(a){s=new Y.dW()
 s.bd(C.e.gaB().ab(q),2)
 s.di(H.b([32,46,189,177,148,32],t.i))
