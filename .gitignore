@@ -1,3 +1,5 @@
-_site
-/.idea
+.build
+.idea
+dist
+node_modules
 /arithmetic
